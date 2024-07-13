@@ -1,4 +1,5 @@
 # Reproducing the results of the pilots and of the study comparing line charts to colorfields
+![](/data/colorfields_vs_line_charts.png)
 
 ## Goal of this repository
 Allow other researchers to reproduce (and reuse) the study carried out for comparing line charts and colorfields as **scents** in a multi-input, multi-output context.
