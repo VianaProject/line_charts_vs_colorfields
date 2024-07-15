@@ -11,7 +11,7 @@ Allow other researchers to reproduce (and reuse) the study carried out for compa
    - https://python-poetry.org/docs/
    - in case newer version don't work the exact version of poetry can be located here:  https://github.com/python-poetry/poetry/releases/tag/1.4.2
 3. Clone this project
-4. In a terminal, powershell if windows or bash in linux, change directory for this project's root
+4. In a terminal, change directory for this project's root
 5. Install a virtual environment in the project's root
    - Windows: python -m venv .venv
    - Linux: python3 -m venv .venv
@@ -27,6 +27,7 @@ Allow other researchers to reproduce (and reuse) the study carried out for compa
 
 ## Project contents
 Below directory structure is used for this project. The structure allows to locate the 3 scripts previously mentioned and have some information about each subdirectory and it's role.
+The comments next to each file are useful for understanding which files are used for which task.
 
 ```plaintext
 project_root/
